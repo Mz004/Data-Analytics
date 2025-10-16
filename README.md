@@ -1,2 +1,2 @@
 # Data-Analytics
-Dashboards created using PowerBI
+Reports created using PowerBI
